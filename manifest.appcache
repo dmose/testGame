@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# vIku3RVz23f97b+BlqRjyrE1uFE=
+
+CACHE:
+c:\Users\dmose\t\myNewGame\www-built\css\app.css
+c:\Users\dmose\t\myNewGame\www-built\index.html
+c:\Users\dmose\t\myNewGame\www-built\js\app.js
+c:\Users\dmose\t\myNewGame\www-built\manifest.webapp
+
+# catch-all for anything else
+NETWORK:
+*
+http://*
+https://*
